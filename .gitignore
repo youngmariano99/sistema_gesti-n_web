@@ -6,3 +6,6 @@ env/
 
 # Ignorar la carpeta __pycache__
 __pycache__/
+
+#ignorar el archivo requirements.txt
+requirements.txt
