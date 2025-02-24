@@ -9,3 +9,7 @@ __pycache__/
 
 #ignorar el archivo requirements.txt
 requirements.txt
+
+#Cualquier archivo que sea .log
+*.log
+
